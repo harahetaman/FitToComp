@@ -157,3 +157,4 @@ if((myScriptPalette != null) && (myScriptPalette instanceof Window)){
 }
 myScript(this);
 }
+// FitToComp_Beta - 2023.02.05 Ryo Shimabukuro 
